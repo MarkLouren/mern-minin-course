@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://tween:BPKZWLEiepyNtxTc@cluster0-sz43z.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "klykovo-the-best-ho-ho-ho",
+  "baseUrl": "http://localhost:5000"
+}
